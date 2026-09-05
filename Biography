@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> Biography</title>
+</head>
+<body>
+    <h2>Biography-MS Dhoni</h2>
+<p>Famous cricketer <b>MS Dhoni</b> is one of the most famous cricketer
+    <p>Here are a <em>few facts</em> about him:</p>
+    <p>-MS Dhoni has a <del>few</del> all the trophies in the world </p>
+    <p>-MS Dhoni was a fan of <strong>Soccer</strong> before cricket</p>
+    <p>-Dhoni was from a <mark>VERY poor family</mark></p>
+    <p>-He was from <em> Ranchi, Bihar</em> which was a small town</p>
+    <p>-MS Dhoni <del>never</del>did face a very hard time in his job when he quit as a ticket checker</p>
+<p>MS Dhoni is the <strong>inspiration</strong> for many young cricketers. He has <mark>always</mark> inspired us and has been a <em>mentor</em>.</p>
+</body>
+</html>
