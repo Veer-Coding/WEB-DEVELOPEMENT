@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title> Planet Earth</title>
+</head>
+<body>
+    <h1> Planet Earth-Be a saviour</h1>
+    <p>Save the land you live on!</p>
+    <ol>
+        <li>Switch the light off when you live a room</li>
+        <li>Do not litter!</li>
+        <li>Recycle items that can be recycled</li>
+        <li>Do not let water waste</li>
+    </ol>
+    <h2> Incredible facts about nature:</h2>
+    <ul>
+        <li>The earth is 90% water and only 10% land</li>
+        <li> We have explored more of the Moon's surface than the ocean</li>
+        <li>The Moon is slowly drifting away from us </li>
+        <li>Some aircrafts go so fast that they can break the natural sound barrier</li>
+    </ul>
+    </body>
+    </html>
