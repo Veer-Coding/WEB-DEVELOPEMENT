@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title> Cartoon Table</title>
+</head>
+<body>
+    <h1> Cartoon Table </h1>
+    <p> My top 5 picks as a child were: </p>
+    <h2> Favourites:</h2>
+    <table border="5">
+    <tr>
+    <th> Rank </th>
+    <th> Name </th>
+    <th> Genere </th>
+    <th> Main Character </th>
+    </tr>
+    <tr>
+        <td> 1 </td>
+        <td> Shin-Chan  </td>
+        <td> Comedy </td>
+        <td> Shin-Chan </td>
+    </tr>
+    <tr>
+        <td> 2 </td>
+        <td> Doramon </td>
+<td>Sci-FI </td>
+<td> Nobita</td>
+    </tr>
+    <tr>
+        <td> 3 </td>
+        <td> Chota Bheem </td>
+        <td> Action </td>
+        <td> Bheem </td>
+    </tr>
+    <tr>
+        <td> 4 </td>
+        <td>Ninja Hathori </td>
+        <td> Adventure </td>
+        <td> Ninja Hathori </td>
+    </tr>
+    <tr>
+        <td> 5 </td>
+        <td> Phenius and Ferg </td>
+<td> Fantasy </td>
+<td> Ferg and Phenius</td>
+    </tr>
+    </table>
+</body>
+</html>
