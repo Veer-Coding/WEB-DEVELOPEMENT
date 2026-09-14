@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title> Rocket Mission</title>
+</head>
+<body>
+    <center>
+        <h1> Welcome to our rocket mission</h1>
+        <p> Meet the significant things we need for this</p>
+        <h2> Step 1: The Rocket </h2>
+        <img src="https://static.vecteezy.com/system/resources/previews/005/214/796/non_2x/rocket-cartoon-clipart-free-vector.jpg" alt="This Rocket will take us to the marvelous planet we have found" width="350" height="350">
+        <p> This will take us to Martivora </p>
+        <h2> Step 2: The astronauts </h2>
+        <img src="https://i.etsystatic.com/27713397/r/il/52dbad/4355956410/il_fullxfull.4355956410_t98r.jpg" alt= These are the astronauts that will take us to Martivora width="350" height="350">
+        <p> These astronauts are trained to survive different situations and the environment of Martivora </p>
+        <h2> Step 3: The Planet </h2>
+        <img src="https://thumbs.dreamstime.com/b/cartoon-illustration-planet-jupiter-moons-colorful-satellites-white-background-372894884.jpg" alt= "This is the planets we have discovered Far from Earth called Martivora" width="350" height="350">
+        <p> The planet has a very simillar environment as compared to earth and is suitable for civillisation</p>
+    </center>
+</body>
+</html>

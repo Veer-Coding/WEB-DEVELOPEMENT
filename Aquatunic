@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title> Aquatic Tunes</title>
+</head>
+<body>
+    <center>
+        <h1> Aquatunic </h1>
+        <h2> The ocean is ready to rock! </h2>
+<p> Play the music to watch the aqua animals music taste </p>
+ <audio controls autoplay>
+    <source src="Audio.mp3" type="audio/mpeg">
+    Your Browser Does Not Support This
+ </audio>
+ <video width="400" height="300" controls autoplay loop>
+    <source src="vid.mp4" type="video/mp4">
+    You browser does not support this
+ </video>
+    </center>
+</body>
+</html>
