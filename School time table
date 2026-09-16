@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title> School table</title>
+</head>
+<body>
+    <h1>School time table</h1>
+    <h2> Friday:</h2>
+    <table border="5">
+        <tr>
+            <th>Period</th>
+            <th>Time</th>
+            <th>Class</th>
+            <th> Teacher</th>
+        </tr>
+        <tr>
+            <td>0</td>
+            <td>8:40</td>
+            <td>Home Room</td>
+            <td> P Allen</td>
+        </tr>
+        <tr>
+            <td>1</td>
+            <td>9:00</td>
+            <td>Health Education</td>
+            <td>D Aldridge</td>
+        </tr>
+        <tr>
+            <td>2</td>
+            <td>10:00</td>
+            <td> Katalyst</td>
+            <td> K Klideon</td>
+        </tr>
+        <tr>
+            <td>3</td>
+            <td>11:30</td>
+            <td>English</td>
+            <td>M Hegharty</td>
+        </tr>
+        <tr>
+            <td>4</td>
+            <td>12:30</td>
+            <td>Japenese</td>
+            <td> X Wong</td>
+        </tr>
+        <tr>
+            <td>5</td>
+            <td>2:00</td>
+            <td>Aviation</td>
+            <td> J McKenzie</td>
+        </tr>
+    </table>
+</body>
+</html>
