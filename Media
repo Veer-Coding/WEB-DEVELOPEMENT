@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title> Flight Tunes </title>
+</head>
+<body>
+    <center>
+    <h1> Get ready to experience a flight!</h1>
+    <p> Play the music and video to feel a beautiful journey</p>
+    <img src="https://www.etihad.com/content/dam/eag/etihadairways/etihadcom/2025/global/products/our-fleet/our-fleet-page-residence.jpg" alt="This will be your comfortable seat, the residence"
+    height="300" width="300">
+    <audio controls autoplay>
+        <source src="Aircraft announcement" type="audio/mpeg">
+        Your browser does not support this
+    </audio>
+    <video height="400" width="350" controls autoplay loop>
+        <source src="Aircraft video">
+        Your browser does not support this
+    </video>
+    </center>
+</body>
+</html>
