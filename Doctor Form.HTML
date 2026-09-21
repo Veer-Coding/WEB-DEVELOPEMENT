@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> The Formatter's lab</title>
+</head>
+
+<body>
+    <h1> My doctor appointment</h1>
+    <p>Fill in the form to book your appointment for a check up.
+        Please provide your:
+    </p>
+    <hr>
+<form>
+    <fieldset>
+        <legend> Personal details</legend>
+        <label> Your name</label><br>
+        <input type="text" id="name" placeholder="Enter Your Full Name"><br><br>
+        <label>Patient ID</label><br>
+        <input type="password" id="pid" placeholder="Your seceret ID" ><br><br>
+        <label>Date of Birth</label> <br>
+        <input type="date" id="dob"><br>
+    
+    </fieldset>
+    <br>
+    <fieldset>
+        <legend> Your visit</legend>
+        <select id="doctor">
+            <option value="">--Select A Doctor--</option>
+            <option value="Dr.Bob"> Dr. Bob - General</option>
+            <option value="Dr.Jane"> Dr. Jane - Psychlogist</option>
+            <option value="Dr.Kane"> Dr. Kane - Heart Specialist</option>
+        </select>
+<br><br>
+<label> Purpose of Visit</label><br>
+<input type="radio" name="reason" value="Heart Problem"> Heart Problem<br>
+<input type="radio" name="reason" value="Psychological support">Psychological support<br>
+<input type="radio" name="reason" value=" General dieseas"> Basic dieseas <br>
+<label> Any Notes For The Doctor?</label>
+<textarea id="notes" rows="10" cols="80" placeholder="eg. I have a high fever."></textarea>
+    </fieldset>
+    <fieldset>
+        <legend> Avalibillities From Your Side</legend>
+        <input type="checkbox" value="mon"> Monday<br>
+        <input type="checkbox" value="wed"> Wednesday<br>
+        <input type="checkbox" value="fri"> Friday<br>
+    </fieldset>
+    <br>
+    <input type="submit" value="Book My Appointment">
+</form>
+</body>
+</html>
