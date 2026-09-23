@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> The Formatter's lab</title>
+</head>
+
+<body>
+    <h1> Book Donation</h1>
+    <p>Fill in the form to donte your book
+        Please provide:
+    </p>
+    <hr>
+<form>
+    <fieldset>
+        <legend> Book Detail</legend>
+        <label> Author of Book</label><br>
+        <input type="text" id="name" placeholder="Who wrote this book"><br><br>
+        <label>Jounre</label><br>
+        <input type="theme" id="theme" placeholder="What is the theme of your book" ><br><br>
+        <label> Book condition</label> <br>
+        <input type="checkbox" value="poor"> Poor<br>
+        <input type="checkbox" value="OK"> Neautral<br>
+        <input type="checkbox" value="good"> Good<br>
+    
+    </fieldset>
+    <br>
+    <fieldset>
+        <legend> Receiving the Book</legend>
+        <input type="checkbox" value="pickup"> Pick up the book<br>
+        <input type="checkbox" value="drop"> Drop the Book<br>
+        <label> Adress</label>
+        <textarea id="nadress" rows="10" cols="80" placeholder=" If the option pick up the book was chosen, enter your adress"></textarea>
+        <p> Our Adress:
+            NICE Road, Queensland
+        <br>
+        Contact 45678923456 for support</p>
+        </p>
+    </fieldset>
+</form>
+</body>
+</html>
